@@ -3,7 +3,7 @@
 **Language:** C++
 **Library/Framework:** ns-3 (Network Simulator 3)
 
-This version (1.0) has been tested with ns-3.44 release.
+This version (1.0) has been tested with ns-3.46 release.
 
 ## Fair use
 
