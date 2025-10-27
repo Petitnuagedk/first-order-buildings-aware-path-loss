@@ -58,11 +58,6 @@ In your code:
 * The `ItuR1411LosPropagationLossModel` class is referenced but not included in this repository.
 * For more information on ns-3 propagation models, refer to the official [ns-3 documentation](https://www.nsnam.org/docs/).
 
-## Examples
-
-The repository includes two example files that demonstrate FOBA usage in ns-3 user scripts:
-
-`FOBA_loss_value_test.cc` & `FOBA_time_test.cc`
 
 ## Author
 
