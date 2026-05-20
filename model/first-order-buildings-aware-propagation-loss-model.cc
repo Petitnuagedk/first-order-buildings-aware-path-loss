@@ -208,19 +208,19 @@ FirstOrderBuildingsAwarePropagationLossModel::PenetrationLoss(
     {
         if (NLOSBuildings[i]->GetExtWallsType() == Building::Wood)
         {
-            loss += 2 * 20;
+            loss += 2 * 5;
         }
         else if (NLOSBuildings[i]->GetExtWallsType() == Building::ConcreteWithWindows)
         {
-            loss += 2 * 30;
+            loss += 2 * 5;
         }
         else if (NLOSBuildings[i]->GetExtWallsType() == Building::ConcreteWithoutWindows)
         {
-            loss += 2 * 30;
+            loss += 2 * 10;
         }
         else if (NLOSBuildings[i]->GetExtWallsType() == Building::StoneBlocks)
         {
-            loss += 2 * 40;
+            loss += 2 * 15;
         }
         else
         {
